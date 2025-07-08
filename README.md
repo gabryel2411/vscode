@@ -1,1 +1,1 @@
-# vscode
+A aula foi sobre vdsecode criamos uma pasta e colocamos nosso nome e uma frase, depois passamos para o github descrevendo oque a gente fez na aula. Não olhe para os erros do paasado,levanta a cabeça e siga em frente
